@@ -1,3 +1,6 @@
+Photos:
+growing grass growth: Markus Spiske on Unsplash
+
 # SDG Console template
 
 This is the template app SDG uses to start off learning C# and .NET

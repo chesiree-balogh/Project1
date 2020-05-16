@@ -3,6 +3,7 @@ import React from 'react'
 export function Home() {
   return (
     <div>
+      <section className="hero">blank</section>
       <h1>The Sod Farm</h1>
       <p>Fresh cut sod from our farms to your home!</p>
       <p>Open 7 days a week!</p>

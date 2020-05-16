@@ -12,3 +12,13 @@ code {
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
+
+.hero {
+  background-image: url(./images/freegrassphoto.jpg);
+  height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
