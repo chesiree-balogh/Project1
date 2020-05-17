@@ -24,7 +24,7 @@ export function Home() {
         Insecticide, Weed control and much much more.
       </p>
       <ul>
-        <li>Sod by the piece or by the Pallet ®</li>
+        <li>Sod by the piece or by the Pallet®</li>
         <li>Jumbo Grass Plugs</li>
         <li>Complete Lawn Replacements</li>
         <li>Free Loading Assistance</li>
