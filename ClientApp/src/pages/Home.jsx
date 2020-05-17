@@ -8,7 +8,33 @@ export function Home() {
       <p>Fresh cut sod from our farms to your home!</p>
       <p>Open 7 days a week!</p>
       <p>About Us</p>
-      <p>Family owned and operated since 1980</p>
+      <p>
+        Family owned and operated since 1977. Where we provide "Fresh cut sod
+        from our farm to your home! ®" Our family has been in the Agriculture
+        Industry for generations dating back to the old county in Hungary. We
+        started in the production of St. Augustine and Bahia Sod right here in
+        West Pasco in 1965.
+      </p>
+      <p>
+        We have the: Freshest sod available, because it is farm direct. #1
+        Fastest Delivery Service Guaranteed in Pasco, Hernando and Pinellas
+        Counties. We opened Our fully supplied Garden Center at 8751 Ridge Road
+        in New Port Richey in 1985, where you will find all lawn and garden
+        needs for Sod and Plants including, Potting soil, Mulch, Fertilizer,
+        Insecticide, Weed control and much much more.
+      </p>
+      <ul>
+        <li>Sod by the piece or by the Pallet ®</li>
+        <li>Jumbo Grass Plugs</li>
+        <li>Complete Lawn Replacements</li>
+        <li>Free Loading Assistance</li>
+        <li>Pest Control Service</li>
+        <li>Water Keeper Krystals®</li>
+        <li>Fertilome Products®</li>
+        <li>Hy-Yield Products®</li>
+        <li>All your Lawn and Garden Supplies</li>
+      </ul>
+
       <ul>
         <li>
           <a href="https://get.asp.net/">ASP.NET Core</a> and{' '}
