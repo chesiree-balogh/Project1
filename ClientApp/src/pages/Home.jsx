@@ -7,6 +7,8 @@ export function Home() {
       <h1>The Sod Farm</h1>
       <p>Fresh cut sod from our farms to your home!</p>
       <p>Open 7 days a week!</p>
+      <p>About Us</p>
+      <p>Family owned and operated since 1980</p>
       <ul>
         <li>
           <a href="https://get.asp.net/">ASP.NET Core</a> and{' '}
