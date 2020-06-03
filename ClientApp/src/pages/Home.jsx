@@ -65,7 +65,7 @@ export function Home() {
           <strong>Efficient production builds</strong>. In production mode,
           development-time features are disabled, and your{' '}
           <code>dotnet publish</code> configuration produces minified,
-          efficiently bundled JavaScript files.
+          efficiently bundled JavaScript files. khjfhgfjgjfhjgghf
         </li>
       </ul>
     </div>
