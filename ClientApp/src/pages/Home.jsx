@@ -2,6 +2,10 @@ import React from 'react'
 
 export function Home() {
   return (
+    //add a link to a page that has a test to see which sod would be best for them
+    //link for free estimate ...................
+    //^^ which takes them to a form and we call and verify
+
     <div>
       <section className="hero">blank</section>
       <h1>The Sod Farm</h1>
@@ -15,6 +19,7 @@ export function Home() {
         started in the production of St. Augustine and Bahia Sod right here in
         West Pasco in 1965.
       </p>
+      <p> help meeeeee</p>
       <p>
         We have the: Freshest sod available, because it is farm direct. #1
         Fastest Delivery Service Guaranteed in Pasco, Hernando and Pinellas
@@ -65,7 +70,8 @@ export function Home() {
           <strong>Efficient production builds</strong>. In production mode,
           development-time features are disabled, and your{' '}
           <code>dotnet publish</code> configuration produces minified,
-          efficiently bundled JavaScript files. khjfhgfjgjfhjgghf
+          efficiently bundled JavaScript files. khjfhgfjgjfhjgghf lasdjflskdf
+          laksdjf
         </li>
       </ul>
     </div>
